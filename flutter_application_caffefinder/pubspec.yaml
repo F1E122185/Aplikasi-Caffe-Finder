@@ -1,0 +1,51 @@
+name: flutter_application_caffefinder
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  google_fonts: ^4.0.4
+  cupertino_icons: ^1.0.8
+  url_launcher: ^6.1.9
+  shared_preferences: ^2.1.0
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logocaffe.png
+    - assets/images/teanol.jpg
+    - assets/images/logo_teanol.jpg
+    - assets/images/foresthere.jpg
+    - assets/images/logo_doresthere.jpg
+    - assets/images/senyala_kopi.jpg
+    - assets/images/logo_senyalakopi.jpg
+    - assets/images/nyamanhati.jpg
+    - assets/images/logo_nyamanhati.jpg
+    - assets/images/laterra.jpg
+    - assets/images/logo_latera.jpg
+    - assets/images/hellosapa.jpg
+    - assets/images/logo_helosapa.jpg
+    - assets/images/jkovcoffe.jpg
+    - assets/images/logo_jkovkoffie.jpg
+    - assets/images/djelitahouse.jpg
+    - assets/images/logo_djelita.jpg
+    - assets/images/koffiecafe.jpg
+    - assets/images/logo_koffiekopi.jpg
+    - assets/images/keyocaffe.jpg
+    - assets/images/logo_keyo.jpg
+    - assets/images/logo_cafefinder.jpg
+    - assets/images/cosera.jpg
+    - assets/images/logo_cosera.jpg
